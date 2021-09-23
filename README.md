@@ -1,14 +1,13 @@
 ### Hey there 👋
 
-**I'm Rodrigo Gonçalves Santana 👨‍🚀**. Currently I'm a mobile developer, Instructor & Content Producer at Rocketseat.
-I also have experience with web and desktop development.
+**I'm Manoel Lopes 👨‍🚀**. Currently I'm a intern for mobile developer.
 
 Currently my stack is: 
 
 :iphone: Mobile applications for Android and iOS with **React Native** <br/> 
-:computer: Web front-end development with **ReactJs** <br/>
+:computer: Web front-end development with **NextJs** <br/>
 :satellite: API with **NodeJs** <br/>
-:floppy_disk: Database: **Postgres**, **Mongo**, **Redis**, **Firebase (Cloud Firestore/Real Time)**, **SQL Server**, **MySQL**, **WatermelonDB** <br/>
+:floppy_disk: Database: **Postgres**, **Mongo**,  **MySQL**, <br/>
 
 But, I also used it in projects: 
 
@@ -50,25 +49,16 @@ But, I also used it in projects:
 <img src="https://bestofjs.org/logos/watermelon.svg" height="35px" />   
 </p>
 
-:mortar_board: I am graduated in Information Systems, master in education, postgraduate in Project Management PMI (Project Management Institute). 
+:mortar_board: I've a technical course in industrial automation and I'm currently majoring in Computer Science.
 
-:memo: I have certifications: Microsoft, Oracle and Autodesk.
-
-
-I also love **UX Design** :heart_eyes:. I like to create beautiful interfaces to provide the user with a great experience. To create prototypes I use **Figma**, but I also know how to work with **Adobe XD** and I use **Photoshop CC** for edit images.
-
-
-I have also worked with **C#**, **SQL Server**, **PHP**, **MySQL** and others. I like project architecture, writing clean code and applying good practices. 
+I have also worked with **C/C++**, **Java**, **PHP**, **Python**, **Go**, and others. I like project architecture, writing clean code and applying good practices. 
 
 
 The only certainty I have is that learning is an endless road and I want to stay on it. So, I love technology, coffee and applying knowledge to solve problems, **create solutions and impact lives**. :purple_heart:
 
 
 
-
 **Follow me on my social media:**
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/rodrigo.goncalves.s/)](https://www.instagram.com/rodrigo.goncalves.s/) 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-gon%C3%A7alves-santana/)](https://www.linkedin.com/in/rodrigo-gon%C3%A7alves-santana/) 
-[![Twitch Badge](https://img.shields.io/badge/-Twitch-6633cc?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/rodrigogoncalvess)](https://www.twitch.tv/rodrigogoncalvess) 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-6633cc?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/rodrigogsdev)](https://twitter.com/rodrigogsdev) 
+
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-gon%C3%A7alves-santana/)](https://https://www.linkedin.com/in/manoelvlopes/) 
