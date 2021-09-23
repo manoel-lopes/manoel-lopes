@@ -46,8 +46,6 @@ But, I also used it in projects:
 &nbsp;
 <img src="https://raw.githubusercontent.com/learnbr/csharp/master/csharp-logo.png" height="35px" />   
 &nbsp;
-<img src="https://bestofjs.org/logos/watermelon.svg" height="35px" />   
-</p>
 
 :mortar_board: I've a technical course in industrial automation and I'm currently majoring in Computer Science.
 
