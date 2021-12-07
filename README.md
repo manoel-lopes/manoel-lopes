@@ -28,6 +28,8 @@ But, I also used it in projects:
 &nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" height="35px"/> 
 &nbsp;
+<img src="https://images-na.ssl-images-amazon.com/images/I/41QodfboFdL.png" height="35px"/> 
+&nbsp;
 
 :mortar_board: I've a technical course on Industrial Automation and I'm currently majoring in Computer Science.
 
