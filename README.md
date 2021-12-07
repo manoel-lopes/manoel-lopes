@@ -28,7 +28,7 @@ But, I also used it in projects:
 &nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" height="35px"/> 
 &nbsp;
-<img src="http://servernews.s3.amazonaws.com/wp-content/uploads/2012/12/sql_server_logo.jpg" height="35px"/> 
+<img src="https://w7.pngwing.com/pngs/244/430/png-transparent-microsoft-sql-server-sql-server-management-studio-database-server-microsoft-angle-text-triangle.png" height="35px"/> 
 &nbsp;
 
 :mortar_board: I've a technical course on Industrial Automation and I'm currently majoring in Computer Science.
