@@ -26,7 +26,7 @@ But, I also used it in projects:
 &nbsp;
 <img src="https://img.icons8.com/color/452/mongodb.png" height="35px"/>
 &nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" height="35px"/> 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" height="38px"/> 
 &nbsp;
 <img src="https://pdjmaster.files.wordpress.com/2020/04/oracle-database.png" height="35px"/> 
 &nbsp;
