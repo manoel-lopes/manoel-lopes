@@ -7,7 +7,7 @@ Currently my stack is:
 :iphone: Mobile applications for Android and iOS with **React Native** <br/> 
 :computer: Web front-end development with **NextJs** <br/>
 :satellite: API with **NodeJs** <br/>
-:floppy_disk: Database: **Postgres**, **Mongo**,  **MySQL**, <br/>
+:floppy_disk: Database: **PostgreSQL**, **MySQL** and **Mongo** <br/>
 
 But, I also used it in projects: 
 
