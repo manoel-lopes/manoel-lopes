@@ -41,4 +41,4 @@ The only certainty I have is that learning is an endless road and I want to stay
 **Follow me on my social media:**
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-gon%C3%A7alves-santana/)](https://www.linkedin.com/in/manoelvlopes/) 
+[![Linkedin Badge]](https://www.linkedin.com/in/manoelvlopes/) 
