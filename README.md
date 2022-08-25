@@ -1,7 +1,7 @@
 # Manoel Lopes 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Manoel%20Lopes-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manoelvlopes/)](https://www.linkedin.com/in/manoelvlopes/) 
-[![Gmail Badge](https://img.shields.io/badge/-manoel.lopes.full@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manoel.lopes.full@gmail.com)](mailto:manoel.lopes.full@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-manoel.lopes.shell@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manoel.lopes.she@gmail.com)](mailto:manoel.lopes.shell@gmail.com)
 
 Enthusiast of the best web & mobile development technologies.
 
