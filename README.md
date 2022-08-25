@@ -3,7 +3,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Manoel%20Lopes-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manoelvlopes/)](https://www.linkedin.com/in/manoelvlopes/) 
 [![Gmail Badge](https://img.shields.io/badge/-manoel.lopes.full@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manoel.lopes.full@gmail.com)](mailto:manoel.lopes.full@gmail.com)
 
-Currently my stack is: 
+Enthusiast of the best web & mobile development technologies.
+
+Passionate about education and changing people's lives through programming.
 
 :iphone: Mobile applications for Android and iOS with **React Native** <br/> 
 :computer: Web front-end development with **NextJs** <br/>
