@@ -1,6 +1,7 @@
-### Hey there 👋🏿
+# Manoel Lopes 
 
-**I'm Manoel Lopes**. Currently I'm a intern for mobile developer on a startap called Smartliv.
+[![Linkedin Badge](https://img.shields.io/badge/-Manoel%20Lopes-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manoelvlopes/)](https://www.linkedin.com/in/manoelvlopes/) 
+[![Gmail Badge](https://img.shields.io/badge/-manoel.lopes.full@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manoel.lopes.full@gmail.com)](mailto:manoel.lopes.full@gmail.com)
 
 Currently my stack is: 
 
@@ -39,6 +40,3 @@ The only certainty I have is that learning is an endless road and I want to stay
 
 
 **Follow me on my social media:**
-
-
-[![Linkedin Badge]](https://www.linkedin.com/in/manoelvlopes/) 
