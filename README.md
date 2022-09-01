@@ -38,7 +38,3 @@ I have also worked with **C/C++**, **Java**, **PHP**, **Python**, **Go**, and ot
 
 
 The only certainty I have is that learning is an endless road and I want to stay on it. So, I love technology, coffee and applying knowledge to solve problems, **create solutions and impact lives**. :purple_heart:
-
-
-
-**Follow me on my social media:**
