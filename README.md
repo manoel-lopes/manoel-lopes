@@ -21,7 +21,6 @@ But, I also used it in projects:
 &nbsp;
 <img src="https://sdtimes.com/wp-content/uploads/2018/04/1_tfZa4vsI6UusJYt_fzvGnQ.png" height="35px" />   
 &nbsp;
-<img src="![image](https://user-images.githubusercontent.com/53446625/189658255-f04d0177-6a24-4771-be45-db9bd2caca78.png)" height="36px" />
 <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height="35px"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" height="35px"/> 
 &nbsp;
