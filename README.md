@@ -23,8 +23,6 @@ But, I also used it in projects:
 &nbsp;
 <img src="https://images.ctfassets.net/hb3id6ag4raq/6NcXL0fTlSXR9tVL14LYJ/c6a2a3dea44cbf46826cd6d5596b5797/apple-touch-icon.png" height="36px" />   
 &nbsp;
-<img src="https://appmasters.io/static/react-47ce6e77f039020ee2e76a10c1e988e9.png" height="35px"/> 
-&nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" height="35px"/> 
 &nbsp;
 <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="35px"/>
