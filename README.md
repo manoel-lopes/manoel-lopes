@@ -5,7 +5,7 @@
 
 Enthusiast of the best web & mobile development technologies.
 
-Passionate about education and changing people's lives through programming.
+Passionate about performance, education and changing people's lives through programming.
 
 :iphone: Mobile applications for Android and iOS with **React Native** <br/> 
 :computer: Web front-end development with **NextJs** <br/>
@@ -35,4 +35,4 @@ But, I also used it in projects:
 I have also worked with **C/C++**, **Java**, **PHP**, **Python**, **Go**, and others. I like project architecture, writing clean code and applying good practices. 
 
 
-The only certainty I have is that learning is an endless road and I want to stay on it. So, I love technology, coffee and applying knowledge to solve problems, **create solutions and impact lives**. :purple_heart:
+Learning is an endless road and I want to stay on it. So, I love technology, coffee and applying knowledge to solve problems, **create solutions and impact lives**. :purple_heart:
